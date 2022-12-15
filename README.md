@@ -2,6 +2,8 @@
 
 A collection of prompts to generate code with GPT-3.
 
+Inspired by: [Awesome Chat GPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 ---
 
 # Prompts
