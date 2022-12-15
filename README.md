@@ -18,3 +18,8 @@ Contributed by: [@ZacxDev](https://github.com/ZacxDev)
 
 > write a property test use fast-check npm module for this typescript function, ensuring the edge cases are handled [insert your function]
 
+## React Typescript - Generate a form using apollo from a graphql schema
+Contributed by: [@ZacxDev](https://github.com/ZacxDev)
+
+> create a react typescript form that uses apollo to execute the following mutation: [insert your graphql mutation] ensure all fields in the form are accounted for using the following schema: [insert schema fragment]
+
